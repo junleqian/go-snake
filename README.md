@@ -28,11 +28,11 @@ Drop fruit at a random spot of the board when 1) it's the start of the game; 2) 
 Extend the snake's length when the snake finish eating a fruit. Do all boarder checks correctly. Complete the full game.
 
 # Milestone Checklist
-[ ] Milestone 0.1
-[ ] Milestone 0.2
-[ ] Milestone 0.3
-[ ] Milestone 1
-[ ] Milestone 2
-[ ] Milestone 3
-[ ] Milestone 4.1
-[ ] Milestone 4.2
+- [ ] Milestone 0.1
+- [ ] Milestone 0.2
+- [ ] Milestone 0.3
+- [ ] Milestone 1
+- [ ] Milestone 2
+- [ ] Milestone 3
+- [ ] Milestone 4.1
+- [ ] Milestone 4.2
